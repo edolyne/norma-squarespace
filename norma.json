@@ -4,18 +4,18 @@
     "markup": {
       "endpoint": "NewSpring/norma-markup",
       "src": "_source/templates/**/*",
-      "dest": "sqs_template/",
+      "dest": "sqs_template",
       "ext": ["region", "item", "list", "block", "conf"]
     },
     "sass": {
       "endpoint": "NewSpring/norma-sass",
       "src": "_source/styles/**/*",
-      "dest": "sqs_template/styles/"
+      "dest": "sqs_template/styles"
     },
     "javascript": {
       "endpoint": "NewSpring/norma-javascript",
       "src": "_source/scripts/**/*",
-      "dest": "sqs_template/scripts/",
+      "dest": "sqs_template/scripts"
     },
     "copy": {
       "endpoint": "NewSpring/norma-copy",
