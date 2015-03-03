@@ -1,0 +1,4 @@
+.git
+node_modules
+sqs_template
+.DS_Store

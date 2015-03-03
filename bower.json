@@ -1,0 +1,9 @@
+{
+  "name": "sqs_template",
+  "dependencies": {
+    "directory": "sqs_template",
+    "sqs_template": "https://edolyne-long-vjfv.squarespace.com/template.git",
+    "squarespace-template": "https://edolyne-long-vjfv.squarespace.com/template.git",
+    "": "https://edolyne-long-vjfv.squarespace.com/template.git"
+  }
+}
